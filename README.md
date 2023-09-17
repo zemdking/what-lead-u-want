@@ -37,7 +37,7 @@ Connection: close
 - ### Example Curl Request
 >  `curl -i -X POST -H "Content-Type: application/json" -d '{"uuid": "0051d59a-5257-4d05-8cf2-16f1b85ec0814"}' http://xx.xx.xxx.xxx:5002/logincheck` 
 
-- **You can make a post request to the login check server to confirm if the login is successful or not and if the request is successful it will give a response like this**
+- ***You can make a post request to the login check server to confirm if the login is successful or not and if the request is successful it will give a response like this***
 
 ```
 
