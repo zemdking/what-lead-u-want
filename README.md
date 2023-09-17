@@ -88,7 +88,7 @@ or
 - any other parameter will be rejected by the server  
 
 
-- RESPONSE FOR BOTH OF THE SERVER
+- Good Respnse For Both Of The Requests
 
  ```
 {
