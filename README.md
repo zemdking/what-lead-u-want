@@ -86,3 +86,15 @@ or
 *As you can see here phone number of the receiver , attach parameter , attach file type , attachment url , text message , uuid are getting passed into the server. see do not give wrong parameter for attach=true&type=image or type=pdf* 
 
 - any other parameter will be rejected by the server  
+
+
+- RESPONSE FOR BOTH OF THE SERVER
+
+ ```
+{
+  "phone": " 91991112226",
+  "status": "Message sent successfully",
+  "text": "i am sick so low ass testing"
+}
+
+```
