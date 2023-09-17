@@ -56,7 +56,7 @@ or
 
 ```
 
-> ***This Request opens up the WhatsApp portal in the main server using selenium and searches for the search bar in the WhatsApp which only comes if the login is done somehow so it confirms if the login is done or not.***
+- ***This Request opens up the WhatsApp portal in the main server using selenium and searches for the search bar in the WhatsApp which only comes if the login is done somehow so it confirms if the login is done or not.***
 
 
 ******************************************************************************
