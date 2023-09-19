@@ -5,7 +5,7 @@
 > 2. A server to send POST requests! 
 
 - ### Example Curl Request
->  `curl -i -X POST -H "Content-Type: application/json" -d '{"uuid": "0051d59a-5257-4d05-8cf2-16f1b85ec0814"}' http://xx.xx.xxx.xxx:5000/login` 
+>  `curl -i -X POST -H "Content-Type: application/json" -d '{"uuid": "0051d59a-5257-4d05-8cf2-16f1b85ec0814", "qr_id": "string"}' http://xx.xx.xxx.xxx:5000/login` 
 
 
 - **You can make a post request to the server and if the request is successful it will give a response like this**
