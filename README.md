@@ -98,3 +98,22 @@ or
 }
 
 ```
+## Logmeout (≧∇≦)
+
+
+-   *Requirements*
+> 1. UUID
+
+- *Example Request khikhikhi*
+
+`curl -X POST -H "Content-Type: application/json" -d '{"uuid": "0051d59a-5257-4d05-8cf2-16f1b85ec070"}' http://xx.xxx.xxxxx.xxxxxxx/logmeout
+`
+- Good Respnse For logout
+
+ ```
+{
+  "logout": "true"
+}
+
+note - "logout": "false" would be for any other conditions 
+```
