@@ -125,6 +125,6 @@ note - "logout": "false" would be for any other conditions
 
 - *Example Request*
 
-`curl -X POST -H "Content-Type: application/json" -d '{"uuid": "600eb8f0-7512-4c20-8133-76e61947e95e"}' "http://XXXXXXXXXX:5000/read_message?phone=FUCKING_RECIEVER_NUMBER"
+`curl -X POST -H "Content-Type: application/json" -d '{"uuid": "600eb8f0-7512-4c20-8133-76e61947e95e"}' "http://XXXXXXXXXX:5005/read_message?phone=FUCKING_RECIEVER_NUMBER"
 `
 
